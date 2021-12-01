@@ -1,0 +1,2 @@
+transfer.c:17:6:transfer_pac_data	8	static
+transfer.c:32:9:packing_data	8	static

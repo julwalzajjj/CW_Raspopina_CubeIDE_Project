@@ -1,0 +1,6 @@
+core_cm0.h:623:22:__NVIC_EnableIRQ	16	static
+core_cm0.h:730:22:__NVIC_SetPriority	24	static
+usart.c:21:6:USART1_IRQHandler	8	static
+usart.c:28:6:gpio_diodes_init	8	static
+usart.c:34:6:usart1_gpio_init	8	static
+usart.c:42:6:usart1_init	8	static
